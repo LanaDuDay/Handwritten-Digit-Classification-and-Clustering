@@ -31,6 +31,8 @@ Comparing the accuracy, confusion matrix, recall, and precision of the classific
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dataset
 The dataset consists of images of handwritten digits, organized in directories. Each directory corresponds to a different digit (0-9).
+![Alt text](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/Samples%20of%20MNIST%20data.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
