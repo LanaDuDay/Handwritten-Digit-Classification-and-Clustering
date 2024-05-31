@@ -38,11 +38,25 @@ The dataset consists of images of handwritten digits, organized in directories. 
 
 Dimensionality Reduction
 We perform dimensionality reduction on the dataset and visualize the data in 2D space to understand the distribution of the different classes.
+![Alt text]([path/to/your/image.png](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/PCA%20dimension%20reduction.png))
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Clustering
 Using a clustering algorithm (K-Means, Gaussian Mixture Model-EM), we cluster the original data and visualize the clusters, marking each cluster distinctly.
+K-MEAN:
+![Alt text]([path/to/your/image.png](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/Kmean%20Clustering.png))
+GMM-EM:
+![Alt text]([path/to/your/image.png](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/EM_table.png))
+
+![Alt text]([path/to/your/image.png](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/GMM%20clustering.png))
+
+GMM clustering data-visualization:
+![Alt text]([path/to/your/image.png](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/GMM_10iteration.png))
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Classification Models
