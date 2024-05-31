@@ -11,10 +11,9 @@ Table of Contents
 - Multinomial Logistic Regression
 - Convolutional Neural Network (CNN)
 - Support Vector Machine (SVM)
-  
-Results
-Contributing
-Acknowledgements
+- Results
+- Contributing
+- Acknowledgements
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
