@@ -48,6 +48,7 @@ Multinomial Logistic Regression
 A Multinomial Logistic Regression model (Softmax) is implemented to classify the images. The model is trained on the training dataset and evaluated on the validation dataset.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Result:
+```
 accuracy training data:  0.8374166666666667
 (784, 12000)
 accuracy testing data:  0.8285
@@ -64,6 +65,7 @@ Confusion Matrix:
  [  10    1   14   14  262   40    1  271    4  577]]
 Precision: 0.8485720395027455
 Recall: 0.8261554782756193
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Convolutional Neural Network (CNN)
 A CNN with the following architecture is implemented for classification:
@@ -72,7 +74,7 @@ A CNN with the following architecture is implemented for classification:
 - 2 fully connected layers
 - A final softmax layer for classification
 - The model is trained on the training dataset and evaluated on the validation dataset.
-
+```
 Result:
 Epoch 1/10
 1500/1500 [==============================] - 31s 20ms/step - loss: 0.7425 - accuracy: 0.8130 - val_loss: 0.1382 - val_accuracy: 0.9588
@@ -94,11 +96,12 @@ Epoch 9/10
 1500/1500 [==============================] - 29s 19ms/step - loss: 0.0780 - accuracy: 0.9761 - val_loss: 0.0539 - val_accuracy: 0.9834
 Epoch 10/10
 1500/1500 [==============================] - 29s 19ms/step - loss: 0.0777 - accuracy: 0.9765 - val_loss: 0.0650 - val_accuracy: 0.9803
-
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Support Vector Machine (SVM)
 A Multi-Class Support Vector Machine model is implemented to classify the images. The model is trained on the training dataset and evaluated on the validation dataset.
 Result:
+```
 Accuracy: 86.12%
 Confusion Matrix:
 [[1097    1   13    3    5   31   15    2    2    6]
@@ -113,7 +116,7 @@ Confusion Matrix:
  [   5    2    3   17  208   11    0   93   11  844]]
 Precision: 0.8631171961992761
 Recall: 0.8611666666666666
-
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributing
 Contributions are welcome! Please read the contributing guidelines first.
