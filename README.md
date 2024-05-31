@@ -46,10 +46,13 @@ We perform dimensionality reduction on the dataset and visualize the data in 2D 
 Clustering
 Using a clustering algorithm (K-Means, Gaussian Mixture Model-EM), we cluster the original data and visualize the clusters, marking each cluster distinctly.
 K-MEAN:
+
 ![Alt text](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/Kmean%20Clustering.png)
+
 GMM-EM:
 ![Alt text](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/EM_table.png)
 
+2.
 ![Alt text](https://github.com/LanaDuDay/Handwritten-Digit-Classification-and-Clustering/blob/main/Images/GMM%20clustering.png)
 
 GMM clustering data-visualization:
