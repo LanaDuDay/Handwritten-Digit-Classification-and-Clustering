@@ -3,18 +3,16 @@ This repository contains the implementation of various machine learning techniqu
 The theoretical basis can be based in the pdf report file \in Vietnamese.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Table of Contents
-Overview
-Dataset
-Dimensionality Reduction
-Clustering
-Classification Models
-Multinomial Logistic Regression
-Convolutional Neural Network (CNN)
-Support Vector Machine (SVM)
-Model Comparison
+- Overview
+- Dataset
+- Dimensionality Reduction
+- Clustering
+- Classification Models
+- Multinomial Logistic Regression
+- Convolutional Neural Network (CNN)
+- Support Vector Machine (SVM)
+  
 Results
-Installation
-Usage
 Contributing
 Acknowledgements
 
